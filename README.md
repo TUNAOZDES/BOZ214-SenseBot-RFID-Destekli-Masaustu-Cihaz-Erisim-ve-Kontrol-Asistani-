@@ -96,9 +96,10 @@ Projede aşağıdaki Arduino kütüphaneleri kullanılmıştır:
 BOZ214-SenseBot-RFID-Destekli-Masaustu-Cihaz-Erisim-ve-Kontrol-Asistani/
 │
 ├── Tuna_Ozdes_SenseBot_Final_Proje.ino
-├── README.md
+│   └── Arduino IDE üzerinde çalışan final proje kodu
 │
-└── (Proje dokümantasyonları, görseller ve ek dosyalar)
+└── README.md
+    └── Proje açıklaması, kullanılan donanımlar, çalışma mantığı ve test bilgileri
 ```
 
 ---
