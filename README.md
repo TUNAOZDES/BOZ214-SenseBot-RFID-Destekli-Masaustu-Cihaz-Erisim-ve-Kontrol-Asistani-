@@ -4,7 +4,7 @@
 **Proje Türü:** Final Projesi<br>
 **Geliştirici:** Tuna Özdeş<br>
 **Üniversite:** Ankara Üniversitesi<br>
-**Durum:** Tamamlandı
+**Durum:** Tamamlandı (v1.0)
 
 ---
 
