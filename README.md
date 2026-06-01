@@ -1,10 +1,10 @@
 # SenseBot – RFID Destekli Masaüstü Cihaz Erişim ve Kontrol Asistanı
 
-**Ders:** BOZ214 – Fiziksel Programlama
-**Proje Türü:** Final Projesi
-**Geliştirici:** Tuna Özdeş
-**Üniversite:** Ankara Üniversitesi
-**Durum:** Tamamlandı (v1.0)
+**Ders:** BOZ214 – Fiziksel Programlama<br>
+**Proje Türü:** Final Projesi<br>
+**Geliştirici:** Tuna Özdeş<br>
+**Üniversite:** Ankara Üniversitesi<br>
+**Durum:** Tamamlandı
 
 ---
 
