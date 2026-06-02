@@ -111,6 +111,8 @@ BOZ214-SenseBot-RFID-Destekli-Masaustu-Cihaz-Erisim-ve-Kontrol-Asistani/
     └── Projede yapay zeka kullanımının kapsamı, katkıları ve etik kullanım açıklaması
 ```
 
+```
+
 ## 📄 Ek Dokümantasyon Dosyaları
 
 Bu projede yalnızca Arduino kodu değil, aynı zamanda proje sürecini açıklayan yardımcı dokümantasyon dosyaları da hazırlanmıştır.
