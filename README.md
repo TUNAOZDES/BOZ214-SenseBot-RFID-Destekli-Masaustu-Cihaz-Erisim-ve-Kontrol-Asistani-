@@ -111,7 +111,6 @@ BOZ214-SenseBot-RFID-Destekli-Masaustu-Cihaz-Erisim-ve-Kontrol-Asistani/
     └── Projede yapay zeka kullanımının kapsamı, katkıları ve etik kullanım açıklaması
 ```
 
-```
 
 ## 📄 Ek Dokümantasyon Dosyaları
 
