@@ -102,7 +102,7 @@ BOZ214-SenseBox-RFID-Destekli-Masaustu-Cihaz-Erisim-ve-Kontrol-Asistani/
 │   └── Projenin genel açıklaması, kullanılan donanımlar, çalışma mantığı ve kurulum bilgileri
 │
 ├── proje_mimarisi.md
-│   └── SenseBot sistem mimarisi, donanım yapısı, yazılım akışı ve çalışma senaryoları
+│   └── SenseBox sistem mimarisi, donanım yapısı, yazılım akışı ve çalışma senaryoları
 │
 ├── pair_programming.md
 │   └── Proje geliştirme sürecinde yapay zeka asistanı ile yürütülen pair programming süreci
@@ -117,10 +117,10 @@ BOZ214-SenseBox-RFID-Destekli-Masaustu-Cihaz-Erisim-ve-Kontrol-Asistani/
 
 Bu projede yalnızca Arduino kodu değil, aynı zamanda proje sürecini açıklayan yardımcı dokümantasyon dosyaları da hazırlanmıştır.
 
-* **proje_mimarisi.md:** SenseBot’un genel sistem yapısını, kullanılan modüllerin görevlerini ve cihaz bırakma/alma senaryolarını açıklar.
+* **proje_mimarisi.md:** SenseBox’un genel sistem yapısını, kullanılan modüllerin görevlerini ve cihaz bırakma/alma senaryolarını açıklar.
 * **pair_programming.md:** Proje sürecinde yapay zeka asistanı ile yapılan planlama, hata ayıklama, kod düzenleme ve raporlama desteğini açıklar.
 * **ai_usage.md:** Yapay zekanın projede hangi amaçlarla kullanıldığını ve öğrencinin projeye doğrudan katkısını belirtir.
-* **Tuna_Ozdes_SenseBot_Final_Proje.ino:** SenseBot’un Arduino IDE üzerinde çalışan final kod dosyasıdır.
+* **Tuna_Ozdes_SenseBox_Final_Proje.ino:** SenseBox’un Arduino IDE üzerinde çalışan final kod dosyasıdır.
 
 ---
 
