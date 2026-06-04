@@ -472,7 +472,7 @@ void ekranYaz(DateTime now, bool kapakKapali) {
   }
 
   else {
-    oledYaz(F("SenseBot hazir"), F("(o_o)"));
+    oledYaz(F("SenseBox hazir"), F("(o_o)"));
   }
 }
 
@@ -500,7 +500,7 @@ void setup() {
   display.setTextColor(SSD1306_WHITE);
   display.setTextSize(1);
   display.setCursor(20, 3);
-  display.println(F("SenseBot basliyor"));
+  display.println(F("SenseBox basliyor"));
   display.display();
 
   if (!rtc.begin()) {
