@@ -10,7 +10,7 @@
 
 ## 📖 Proje Hakkında
 
-SenseBot, Arduino Uno tabanlı RFID kontrollü akıllı bir güvenlik kutusu projesidir. Bu proje, bir cihazın kutuya yetkili şekilde bırakılmasını ve daha sonra yine yetkili şekilde alınmasını kontrol etmek amacıyla geliştirilmiştir.
+SenseBox, Arduino Uno tabanlı RFID kontrollü akıllı bir güvenlik kutusu projesidir. Bu proje, bir cihazın kutuya yetkili şekilde bırakılmasını ve daha sonra yine yetkili şekilde alınmasını kontrol etmek amacıyla geliştirilmiştir.
 
 Sistem; RFID kart/tag doğrulaması, load cell ile ağırlık algılama, RTC ile saatli kayıt tutma, OLED ekran ile kullanıcı bilgilendirme, RGB LED ve buzzer ile görsel/sesli geri bildirim, servo motor ile fiziksel kilit kontrolü gibi birçok fiziksel programlama bileşenini bir araya getirir.
 
