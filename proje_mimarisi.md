@@ -1,8 +1,8 @@
 # 🏗️ Proje Mimarisi
 
-Bu doküman, **SenseBot – RFID Destekli Masaüstü Cihaz Erişim ve Kontrol Asistanı** projesinin genel sistem mimarisini, donanım bileşenlerini ve yazılım akışını açıklamak amacıyla hazırlanmıştır.
+Bu doküman, **SenseBox: RFID Destekli Masaüstü Cihaz Erişim ve Kontrol Asistanı** projesinin genel sistem mimarisini, donanım bileşenlerini ve yazılım akışını açıklamak amacıyla hazırlanmıştır.
 
-SenseBot, Arduino Uno tabanlı, gerçek dünyayla etkileşim kuran fiziksel programlama projesidir. Sistem; RFID doğrulama, load cell ile cihaz algılama, RTC ile saatli kayıt, OLED ekran, RGB LED, buzzer ve servo kilit mekanizmasını birlikte kullanır.
+SenseBox, Arduino Uno tabanlı, gerçek dünyayla etkileşim kuran fiziksel programlama projesidir. Sistem; RFID doğrulama, load cell ile cihaz algılama, RTC ile saatli kayıt, OLED ekran, RGB LED, buzzer ve servo kilit mekanizmasını birlikte kullanır.
 
 ---
 
@@ -180,7 +180,7 @@ Hata durumlarında sistem kırmızı LED, hata sesi ve OLED mesajı ile kullanı
 
 ## Sonuç
 
-SenseBot mimarisi; sensör, aktüatör, ekran, sesli uyarı, saatli kayıt ve fiziksel kilit kontrolünü bir araya getiren bütünleşik bir yapıya sahiptir.
+SenseBox mimarisi; sensör, aktüatör, ekran, sesli uyarı, saatli kayıt ve fiziksel kilit kontrolünü bir araya getiren bütünleşik bir yapıya sahiptir.
 
 Bu mimari sayesinde proje:
 
