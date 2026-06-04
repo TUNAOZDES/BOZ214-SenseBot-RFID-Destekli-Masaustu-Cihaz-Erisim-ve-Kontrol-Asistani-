@@ -1,4 +1,4 @@
-# SenseBot – RFID Destekli Masaüstü Cihaz Erişim ve Kontrol Asistanı
+# SenseBox – RFID Destekli Masaüstü Cihaz Erişim ve Kontrol Asistanı
 
 **Ders:** BOZ214 – Fiziksel Programlama<br>
 **Proje Türü:** Final Projesi<br>
