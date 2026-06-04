@@ -14,7 +14,7 @@ SenseBox, Arduino Uno tabanlı RFID kontrollü akıllı bir güvenlik kutusu pro
 
 Sistem; RFID kart/tag doğrulaması, load cell ile ağırlık algılama, RTC ile saatli kayıt tutma, OLED ekran ile kullanıcı bilgilendirme, RGB LED ve buzzer ile görsel/sesli geri bildirim, servo motor ile fiziksel kilit kontrolü gibi birçok fiziksel programlama bileşenini bir araya getirir.
 
-SenseBot yalnızca kutunun açılıp kapanmasını değil, cihazın gerçekten bırakılıp bırakılmadığını veya alınıp alınmadığını da kontrol eder. Bu sayede sistem hem elektronik hem mekanik hem de yazılımsal olarak gerçek dünyayla etkileşim kuran bütünleşik bir fiziksel programlama projesi haline gelmiştir.
+SenseBox yalnızca kutunun açılıp kapanmasını değil, cihazın gerçekten bırakılıp bırakılmadığını veya alınıp alınmadığını da kontrol eder. Bu sayede sistem hem elektronik hem mekanik hem de yazılımsal olarak gerçek dünyayla etkileşim kuran bütünleşik bir fiziksel programlama projesi haline gelmiştir.
 
 ---
 
@@ -22,7 +22,7 @@ SenseBot yalnızca kutunun açılıp kapanmasını değil, cihazın gerçekten b
 
 Bu projenin amacı, Arduino platformu kullanılarak gerçek dünyayla etkileşim kuran, sensörlerden veri alan, aktüatörleri kontrol eden ve kullanıcıya anlık geri bildirim veren işlevsel bir sistem geliştirmektir.
 
-SenseBot ile hedeflenenler:
+SenseBox ile hedeflenenler:
 
 * Yetkili kullanıcıların RFID kart ile sisteme erişebilmesi
 * Cihazın bırakılması ve alınmasının kontrollü şekilde yapılması
@@ -93,10 +93,10 @@ Projede aşağıdaki Arduino kütüphaneleri kullanılmıştır:
 ## 📁 Proje Dosya Yapısı
 
 ```text
-BOZ214-SenseBot-RFID-Destekli-Masaustu-Cihaz-Erisim-ve-Kontrol-Asistani/
+BOZ214-SenseBox-RFID-Destekli-Masaustu-Cihaz-Erisim-ve-Kontrol-Asistani/
 │
-├── Tuna_Ozdes_SenseBot_Final_Proje.ino
-│   └── Arduino IDE üzerinde çalışan final SenseBot proje kodu
+├── Tuna_Ozdes_SenseBox_Final_Proje.ino
+│   └── Arduino IDE üzerinde çalışan final SenseBox proje kodu
 │
 ├── README.md
 │   └── Projenin genel açıklaması, kullanılan donanımlar, çalışma mantığı ve kurulum bilgileri
@@ -151,7 +151,7 @@ Bu projede yalnızca Arduino kodu değil, aynı zamanda proje sürecini açıkla
 
 ## ▶️ Çalışma Mantığı
 
-SenseBot, sistem durumlarına göre çalışan bir akış yapısına sahiptir.
+SenseBox, sistem durumlarına göre çalışan bir akış yapısına sahiptir.
 
 ### 1. Bekleme Durumu
 
@@ -303,7 +303,7 @@ KAYIT | Sure doldu | Saat: 18:56:30
 
 ## 🧠 Sistem Mimarisi
 
-SenseBot çoklu modül entegrasyonu ile çalışır.
+SenseBox çoklu modül entegrasyonu ile çalışır.
 
 ```text
 RFID Kart / Tag
@@ -392,7 +392,7 @@ Bu proje fiziksel donanım üzerinde çalışmaktadır. Kodun çalıştırılmas
 Arduino IDE üzerinden aşağıdaki `.ino` dosyası açılır:
 
 ```text
-Tuna_Ozdes_SenseBot_Final_Proje.ino
+Tuna_Ozdes_SenseBox_Final_Proje.ino
 ```
 
 ### 2. Gerekli Kütüphaneleri Kurma
