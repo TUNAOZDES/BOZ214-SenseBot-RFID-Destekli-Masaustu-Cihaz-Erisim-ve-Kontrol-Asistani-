@@ -1,4 +1,4 @@
-# SenseBox – RFID Destekli Masaüstü Cihaz Erişim ve Kontrol Kutusu
+# SenseBox: RFID Destekli Masaüstü Cihaz Erişim ve Kontrol Kutusu
 
 **Ders:** BOZ214 – Fiziksel Programlama<br>
 **Proje Türü:** Final Projesi<br>
