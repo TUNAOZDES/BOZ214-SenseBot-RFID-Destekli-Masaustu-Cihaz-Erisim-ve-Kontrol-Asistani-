@@ -1,6 +1,6 @@
 # 🧠 Yapay Zeka Asistanı Kullanımı
 
-Bu projede yapay zeka asistanı, SenseBot’un geliştirme sürecinin farklı aşamalarında aktif olarak kullanılmıştır. Asistan yalnızca soru-cevap aracı olarak değil; planlama, hata ayıklama, kod düzenleme, test senaryosu hazırlama ve dokümantasyon desteği sağlayan bir geliştirme yardımcısı olarak değerlendirilmiştir.
+Bu projede yapay zeka asistanı, SenseBox’un geliştirme sürecinin farklı aşamalarında aktif olarak kullanılmıştır. Asistan yalnızca soru-cevap aracı olarak değil; planlama, hata ayıklama, kod düzenleme, test senaryosu hazırlama ve dokümantasyon desteği sağlayan bir geliştirme yardımcısı olarak değerlendirilmiştir.
 
 ---
 
@@ -105,6 +105,6 @@ Asistanın önerileri, gerçek test sonuçlarına göre değerlendirilmiş ve ge
 
 ## Sonuç
 
-Yapay zeka asistanı, SenseBot projesinde aktif bir geliştirme ortağı olarak kullanılmıştır. Projenin planlama, kodlama, hata çözme, test ve dokümantasyon aşamalarında katkı sağlamıştır.
+Yapay zeka asistanı, SenseBox projesinde aktif bir geliştirme ortağı olarak kullanılmıştır. Projenin planlama, kodlama, hata çözme, test ve dokümantasyon aşamalarında katkı sağlamıştır.
 
 Bu kullanım, BOZ214 Fiziksel Programlama dersi kapsamında geliştirilen projenin teknik ve akademik kalitesini artırmıştır.
