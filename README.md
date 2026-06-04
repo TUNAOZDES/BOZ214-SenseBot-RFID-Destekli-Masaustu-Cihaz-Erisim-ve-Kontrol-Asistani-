@@ -1,4 +1,4 @@
-# SenseBox – RFID Destekli Masaüstü Cihaz Erişim ve Kontrol Asistanı
+# SenseBox – RFID Destekli Masaüstü Cihaz Erişim ve Kontrol Kutusu
 
 **Ders:** BOZ214 – Fiziksel Programlama<br>
 **Proje Türü:** Final Projesi<br>
@@ -93,7 +93,7 @@ Projede aşağıdaki Arduino kütüphaneleri kullanılmıştır:
 ## 📁 Proje Dosya Yapısı
 
 ```text
-BOZ214-SenseBox-RFID-Destekli-Masaustu-Cihaz-Erisim-ve-Kontrol-Asistani/
+BOZ214-SenseBox-RFID-Destekli-Masaustu-Cihaz-Erisim-ve-Kontrol-Kutusu/
 │
 ├── Tuna_Ozdes_SenseBox_Final_Proje.ino
 │   └── Arduino IDE üzerinde çalışan final SenseBox proje kodu
